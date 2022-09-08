@@ -1,2 +1,1 @@
-I want to make a new change
-I am making new changes now
+I want to make new changes
